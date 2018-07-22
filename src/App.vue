@@ -3,13 +3,8 @@
   <header>
     <div class="wrapper">
       <nav>
-        <a href="#" v-scroll-to="'#home'">
-          <svg id="logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 146.42 146.46">
-<path d="M135.52,109.91,72.48,1l1.75,0a72.2,72.2,0,0,1,35.08,9.61h0a72.55,72.55,0,0,1,27.07,97.76ZM76,3l59.49,102.79a70.55,70.55,0,0,0-27.16-93.49h0A70.27,70.27,0,0,0,76,3Z" transform="translate(-0.04 0)"/><path d="M10.52,109.83,73.42.61l63.13,109.08ZM73.42,4.61,14,107.83l119.11-.13Z" transform="translate(-0.04 0)"/><path d="M73,145.42a71.86,71.86,0,0,1-61.72-35.08l-.9-1.51,125.86-.14-.9,1.52A72.54,72.54,0,0,1,73,145.42ZM13.91,110.83a70.31,70.31,0,0,0,24.27,23.3h0a70.56,70.56,0,0,0,94.49-23.43Z" transform="translate(-0.04 0)"/><path d="M11.31,110.46l-.86-1.53a72.64,72.64,0,0,1,.17-71.76h0A72.66,72.66,0,0,1,72.61,1l1.75,0Zm1-72.3a70.65,70.65,0,0,0-1,68.24L70.86,3A70.64,70.64,0,0,0,12.35,38.16Z" transform="translate(-0.04 0)"/>
-<path d="M73.19,1A72.2,72.2,0,0,0,10.74,109.44l.11.2.12.19a72.2,72.2,0,0,0,124.66-.13l.24-.4.22-.41A72.21,72.21,0,0,0,73.64,1m35.17,10.47a71.34,71.34,0,0,1,26.69,96.41L74.22,2A70.82,70.82,0,0,1,108.81,11.47ZM73.42,2.61l61.4,106.09-122.57.13ZM11.49,37.67A71.28,71.28,0,0,1,72.62,2L11.32,108.44A71.29,71.29,0,0,1,11.49,37.67ZM37.68,135a70.82,70.82,0,0,1-25.56-25.16l122.34-.13A71.34,71.34,0,0,1,37.68,135Z" transform="translate(-0.04 0)"/><path d="M73.06,146.46a73,73,0,0,1-63-36.13l-.23-.41A73.19,73.19,0,0,1,73.19,0V1l.22-.38.22.38V0A73.21,73.21,0,0,1,137,109.39l-.47.81A73.4,73.4,0,0,1,73.06,146.46ZM13.91,110.83a70.21,70.21,0,0,0,118.76-.13ZM73.42,4.61,14,107.83l119.11-.13ZM12.35,38.16a70.65,70.65,0,0,0-1,68.24L70.86,3A70.64,70.64,0,0,0,12.35,38.16ZM76,3l59.49,102.79A70.21,70.21,0,0,0,76,3Z" transform="translate(-0.04 0)"/>
-<path d="M73.53,130.54a21.28,21.28,0,1,1,21.28-21.28A21.3,21.3,0,0,1,73.53,130.54Zm0-41.55a20.28,20.28,0,1,0,20.28,20.27A20.29,20.29,0,0,0,73.53,89Z" transform="translate(-0.04 0)"/>
-<path d="M73.53,131.54a22.28,22.28,0,1,1,22.28-22.28A22.3,22.3,0,0,1,73.53,131.54Zm0-41.55a19.28,19.28,0,1,0,19.28,19.27A19.3,19.3,0,0,0,73.53,90Z" transform="translate(-0.04 0)"/>
-</svg>
+        <a id="logo" href="#" v-scroll-to="'#home'">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 84.78 112.82"><path d="M72,61c6,0,10.22,4.18,10.22,10.23v13.1c0,6-4.17,10.23-10.22,10.23H55.87V112.8H45.5V61ZM69.4,84.72a2.21,2.21,0,0,0,2.45-2.45V73.2a2.2,2.2,0,0,0-2.45-2.45H55.87v14Z"/><path d="M10.33,52.42H26.74C32.79,52.42,37,48.24,37,42.2V33.84H26.6v6.34a2.21,2.21,0,0,1-2.45,2.45H12.92a2.21,2.21,0,0,1-2.45-2.45V12.24a2.21,2.21,0,0,1,2.45-2.45H24.15a2.21,2.21,0,0,1,2.45,2.45v6.34H37V10.22C37,4.18,32.79,0,26.74,0H10.33C4.28,0,.1,4.18.1,10.22v32C.1,48.24,4.28,52.42,10.33,52.42Z"/><polygon points="56.55 30.53 74.41 30.53 74.41 52.13 84.78 52.13 84.78 0.29 74.41 0.29 73.41 20.74 56.55 20.74 56.55 0.29 46.18 0.29 46.18 52.13 56.55 52.13 56.55 30.53"/><path d="M27.29,60.4H10.23C4.18,60.4,0,64.58,0,70.62v32c0,6,4.18,10.22,10.23,10.22H27.29c6.05,0,10.23-4.18,10.23-10.22V83.51H17.64v9.36h9.51v7.71A2.21,2.21,0,0,1,24.7,103H12.82a2.21,2.21,0,0,1-2.45-2.45V72.64a2.21,2.21,0,0,1,2.45-2.45H24.7a2.21,2.21,0,0,1,2.45,2.45v4.75H37.52V70.62C37.52,64.58,33.34,60.4,27.29,60.4Z"/><polygon points="73.92 99.8 62.48 99.8 72.75 112.8 84.19 112.8 73.92 99.8"/></svg>
 </a>
         <ul class="navigation">
           <li><a href="#" v-scroll-to="'#about'">About</a></li>
@@ -23,7 +18,7 @@
   </header>
   <section class="section" id="home">
     <div class="img-container">
-      <img src="./assets/building_dark.jpg" alt="">
+      <img src="./assets/building.jpg" alt="">
     </div>
     <div class="content">
       <div class="welcome">
@@ -250,6 +245,18 @@ iframe {
     }
 }
 
+#logo {
+    background: rgba(#fff,0.6);
+    padding: 10px;
+    @include breakpoint(mobile) {
+        background: transparent;
+        padding: 0;
+    }
+    svg {
+        display: block;
+    }
+}
+
 header {
     position: fixed;
     top: 0;
@@ -260,24 +267,27 @@ header {
     @include breakpoint(mobile) {
         padding: 15px 0;
         background: #222;
+        border-bottom: 1px solid rgba(#fff,0.1);
     }
 
     svg {
-        fill: #777;
-        width: 50px;
+        fill: #222;
+        width: 70px;
 
         @include breakpoint(mobile) {
             width: 20px;
+            fill: #fff;
         }
     }
 
     nav {
         display: flex;
-        align-items: center;
+        align-items: flex-start;
         justify-content: space-between;
 
         @include breakpoint(mobile) {
             flex-direction: column;
+            align-items: center;
         }
     }
 }
@@ -390,18 +400,27 @@ header {
         cursor: pointer;
         color: #777;
         &:last-of-type {
-            margin: 10px 0 0;
+            margin: 0;
         }
 
         @include breakpoint(mobile) {
             margin: 10px 10px 0 0;
             font-size: 12px;
 
+            &:last-of-type {
+                margin: 10px 0 0;
+            }
+
         }
 
         a {
             text-decoration: none;
             color: #777;
+
+            transition: all 0.4s;
+            &:hover {
+                color: #999;
+            }
         }
     }
 }
@@ -419,6 +438,7 @@ header {
         font-size: 50px;
         text-transform: uppercase;
         margin: 0;
+        color: #222;
     }
 
     h2 {
@@ -426,6 +446,7 @@ header {
         text-transform: uppercase;
         letter-spacing: 5px;
         font-weight: 500;
+        color: #222;
         //margin: 0 0 10px 16px;
         @include breakpoint(mobile) {
             font-size: 12px;
@@ -440,22 +461,42 @@ header {
     @include breakpoint(mobile) {
         flex-direction: column;
     }
+
+    &#about {
+        .img-container {
+            background: #fff;
+            height: 100vh;
+
+            @include breakpoint(mobile) {
+                width: 100vh;
+                height: auto;
+            }
+
+            img {
+                object-fit: fill;
+                transform: translateX(-50%);
+            }
+        }
+    }
     &#home {
         display: flex;
         align-items: flex-end;
         position: relative;
+        background: #fff;
         @include breakpoint(mobile) {
             flex-direction: column;
         }
 
         .img-container {
             width: 50vw;
-            opacity: 0.4;
+            opacity: 1;
             display: flex;
             align-items: flex-end;
+            height: 100vh;
 
             @include breakpoint(mobile) {
                 width: 100vh;
+                height: auto;
             }
         }
 
