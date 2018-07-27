@@ -187,6 +187,7 @@
 </template>
 
 <script>
+/* eslint-disable */
 import glitchText from './components/glitchtext'
 export default {
   components: {
