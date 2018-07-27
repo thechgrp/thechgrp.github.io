@@ -32,15 +32,13 @@
     <div class="content">
       <div class="text">
         <p>The Change Group is a high technology consultancy with deep focus and expertise in creating blockchain and cryptocurrency solutions.</p>
-        <p>We are lead by former serial Chief Technology Officers and Chief Product Officers who are veterans of many successful (VC funded) technology companies. Our make enables us to offer a full spectrum range of services, expertise, and discipline to
-          create engaging products that marry perfect design and engineering.</p>
+        <p>We are lead by former serial Chief Technology Officers and Chief Product Officers who are veterans of many successful (VC funded) technology companies. Our makeup allows us to offer the full spectrum of services, expertise, and discipline necessary to create engaging products with a perfect marriage of design and engineering.</p>
       </div>
     </div>
     <div class="img-container">
       <img src="./assets/building.jpg" alt="">
     </div>
   </section>
-
   <section class="section" id="services">
     <div class="content">
       <div class="wrapper">
@@ -48,12 +46,10 @@
         <div class="container">
           <div class="col">
             <h2>ADVISORY AND STRATEGY CONSULTING</h2>
-            <p>Engage with us to help drive your vision and strategy. We have a long track record across many industries and we can bring insight and experience to help you lay a strong foundation. Our consulting fast tracks and amplifies your team’s experience
-              in order to charter your roadmap to success.</p>
+            <p>Engage and work with us to drive your vision and strategy. We have a long track record across many industries and we can bring insight and experience to help you lay a strong foundation. Our consulting fast tracks and amplifies your team’s experience in order to charter your roadmap to success.</p>
             <br>
             <h2>BLOCKCHAIN SERVICES</h2>
-            <p>We are heavily focused and interested in blockchain (distributed ledger technology) and have worked on many significant projects in the cryptocurrency, social, gamifications, and rewards space. Through the constant expansion of our knowledge,
-              abilities and toolset we can help you make a great impact using decentralized technology.</p>
+            <p>We are heavily focused and interested in blockchain (distributed ledger technology) and have worked on many significant projects in the cryptocurrency, social, and gamification, loyalty, and rewards space. Through the constant expansion of our knowledge, abilities and toolset we work with you to make a great impact using decentralized technology.</p>
             <br>
             <h2>WE HAVE EXPERIENCE WORKING DEEPLY WITH:</h2>
             <ul>
@@ -75,8 +71,8 @@
             <br>
             <h2>PROOF OF CONCEPTS (POC) AND MINIMAL VIABLE PRODUCTS (MVP) DEVELOPMENT</h2>
             <p>With a clear understanding of your challenges and what delivers value, we will work together to define perfect scope and build just enough features to validate your vision and early adopters.</p>
-            <p>Interpretations vary by case and industry, here is a basic guideline to help:</p>
-            <p><strong>POC</strong> - helps demonstrate one aspect of the entire solution. Typically internal evaluation or very limited trial users.</p>
+            <p>Interpretations vary by case and industry, this is a basic guideline:</p>
+            <p><strong>POC</strong> - a rough prototype to demonstrate one aspect of the entire solution. Typically internal evaluation or very limited trial users.</p>
             <p><strong>MVP</strong> - the smallest set of features that enables one or more key user stories. May be designed for limited public release.</p>
             <br>
             <h2>WE CAN HELP YOU WITH:</h2>
