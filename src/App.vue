@@ -32,8 +32,7 @@
     <div class="content">
       <div class="text">
         <p>The Change Group is a high technology consultancy with deep focus and expertise in creating blockchain and cryptocurrency solutions.</p>
-        <p>We are lead by former serial Chief Technology Officers and Chief Product Officers who are veterans of many successful (VC funded) technology companies. Our makeup allows us to offer the full spectrum of services, expertise, and discipline necessary
-          to create engaging products with a perfect marriage of design and engineering.</p>
+        <p>We are led by veteran Chief Technology Officers and Chief Product Officers of many successful (VC funded) technology companies. We provide the full spectrum of services, expertise, and discipline necessary to create engaging products with a perfect marriage of design and engineering.</p>
       </div>
     </div>
     <div class="img-container">
@@ -47,12 +46,10 @@
         <div class="container">
           <div class="col">
             <h2>ADVISORY AND STRATEGY CONSULTING</h2>
-            <p>Engage and work with us to drive your vision and strategy. We have a long track record across many industries and we can bring insight and experience to help you lay a strong foundation. Our consulting fast tracks and amplifies your team’s
-              experience in order to charter your roadmap to success.</p>
+            <p>Engage and work with us to drive your vision and strategy. We have a long track record across many industries and we can bring insight and experience to help you lay a strong foundation. Our consulting fast tracks and amplifies your team’s experience in order to charter your roadmap to success.</p>
             <br>
             <h2>BLOCKCHAIN SERVICES</h2>
-            <p>We are heavily focused and interested in blockchain (distributed ledger technology) and have worked on many significant projects in the cryptocurrency, social, and gamification, loyalty, and rewards space. Through the constant expansion of
-              our knowledge, abilities and toolset we work with you to make a great impact using decentralized technology.</p>
+            <p>We are heavily focused and interested in blockchain (distributed ledger technology) and have worked on many significant projects in the cryptocurrency, social, and gamification, loyalty, and rewards space. Through the constant expansion of our knowledge, abilities and toolset we work with you to make a great impact using decentralized technology.</p>
             <br>
             <h2>WE HAVE EXPERIENCE WORKING DEEPLY WITH:</h2>
             <ul>
@@ -186,7 +183,6 @@
 </template>
 
 <script>
-/* eslint-disable */
 import glitchText from './components/glitchtext'
 export default {
   components: {
